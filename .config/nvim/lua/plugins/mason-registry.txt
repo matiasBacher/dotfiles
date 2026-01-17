@@ -1,0 +1,2 @@
+
+{ "marksman", "sqlfluff", "debugpy", "intelephense", "delve", "ruff", "lua-language-server", "golangci-lint", "markdownlint-cli2", "stylua", "json-lsp", "css-lsp", "shfmt", "gopls", "markdown-toc", "hyprls", "phpactor", "php-debug-adapter", "goimports", "gofumpt", "pyright" }
